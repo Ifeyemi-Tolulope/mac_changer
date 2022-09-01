@@ -1,5 +1,5 @@
 
-# Foobar
+# Mac Changer
 Mac Changer is a Python script for changing any device card with word pluralization.
 
 ## Usage
@@ -20,17 +20,8 @@ In terminal
   python main.py --interface wlan0 --mac 00:11:22:33:44:55
 ```
 
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```python
-pip install foobar
-```
-
 ## Help
 
 ```python
-  main.py --help
+  python main.py --help
 ```
